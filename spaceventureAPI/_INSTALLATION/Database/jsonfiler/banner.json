@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "617bcb38b029bb1a5c0aa1be"
+    },
+    "title": "Se jorden stå op",
+    "content": "Flyv med til månen!",
+    "image": "banner1.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617bcb85b029bb1a5c0aa1c0"
+    },
+    "title": "Oplev den røde planet",
+    "content": "Turen går til Mars!",
+    "image": "banner2.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617bcbf3b029bb1a5c0aa1c6"
+    },
+    "title": "Tophastighed på 1.000.000 km/t",
+    "content": "Stig ombord på rumfærgen!",
+    "image": "banner3.jpg",
+    "__v": 0
+  }
+]

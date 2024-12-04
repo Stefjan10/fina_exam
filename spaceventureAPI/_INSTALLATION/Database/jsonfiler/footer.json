@@ -1,0 +1,15 @@
+[
+  {
+    "_id": {
+      "$oid": "650df5c7c48fbc22a0abd8b7"
+    },
+    "name": "Spaceventure",
+    "cvr": "123456789",
+    "address": "Mælkevejen 123, 8000 Aarhus C",
+    "phone": "+45 12 34 56 78",
+    "email": "info@spaceventure.dk",
+    "openinghours": "Alle hverdage kl. 8 til 16",
+    "coordinates": "56.162937,10.203921",
+    "__v": 0
+  }
+]

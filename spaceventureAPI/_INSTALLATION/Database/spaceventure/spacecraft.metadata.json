@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f78b48e7d6ad44cc90938fdc99f8db73","collectionName":"spacecraft"}

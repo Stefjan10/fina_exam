@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {
+      "$oid": "633a97ac80aeac4e145106d9"
+    },
+    "email": "janeo@doe.dk",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6506078453552d5aac83b5dc"
+    },
+    "email": "karen@testmail.dk",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6506079553552d5aac83b5df"
+    },
+    "email": "lars@testmail.dk",
+    "__v": 0
+  }
+]

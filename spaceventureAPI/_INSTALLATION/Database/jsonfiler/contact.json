@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {
+      "$oid": "617bcc47b029bb1a5c0aa1c9"
+    },
+    "read": true,
+    "name": "Michael",
+    "email": "ma@videnddjurs.dk",
+    "phone": "31513101",
+    "message": "Jeg håber, det bliver en god tur!",
+    "received": "2023-10-29T10:26:15.486Z",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "633597dbb26a785d8c024734"
+    },
+    "read": true,
+    "name": "John Doe",
+    "email": "john@doe.dk",
+    "phone": "78787878",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis lectus quis sem lacinia nonummy. ",
+    "received": "2024-09-29T13:04:27.467Z",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65033f77ef1ae359f399e99a"
+    },
+    "read": false,
+    "name": "Karen Stjernedrys",
+    "email": "ks@kstester.dk",
+    "phone": "78787878",
+    "message": "Hvornår er der næste gang en afgang til Mars - eller måske Venus?",
+    "received": "2024-09-10T15:24:27.467Z",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65033fd5ef1ae359f399e99b"
+    },
+    "read": false,
+    "name": "Holger P. Lanet",
+    "email": "hpl@hpltester.dk",
+    "phone": "78777675",
+    "message": "Må man ryge ombord? Og må man medbringe egne drikkevarer?",
+    "received": "2024-09-11T22:00:27.468Z",
+    "__v": 0
+  }
+]

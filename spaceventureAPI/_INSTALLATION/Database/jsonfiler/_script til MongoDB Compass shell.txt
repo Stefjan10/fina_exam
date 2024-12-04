@@ -1,0 +1,44 @@
+// Forudsætter at json-filerne ligger i stien: "C:/mongodb/spaceventure/json" - og ellers ret til i scriptet
+
+
+const fs = require("fs");
+		
+	// Mappen, hvor JSON-filerne er placeret
+	const mappeSti = "C:/mongodb/spaceventure/json";
+	
+	// Funktion til at fjerne _id-feltet
+	function removeIdField(data) {
+		return data.map(item => {
+			delete item._id;
+			return item;
+		});
+	}
+	
+	// Loop gennem hvert filnavn
+	const filnavne = fs.readdirSync(mappeSti);
+	for (let i = 0; i < filnavne.length; i++) {
+		const filnavn = filnavne[i];
+		if (filnavn.endsWith(".json")) {
+			const collectionNavn = filnavn.replace(/\.json$/, ""); // Fjern ".json" fra filnavnet
+	
+			// Læs JSON-filen som en streng
+			const jsonFil = fs.readFileSync(mappeSti + filnavn, "utf8");
+	
+			try {
+				// Prøv at konvertere JSON-strengen til et JavaScript-objekt
+				const jsonData = JSON.parse(jsonFil);
+	
+				// Fjern _id-feltet fra hvert dokument
+				const dataWithoutId = removeIdField(jsonData);
+	
+				if (Array.isArray(dataWithoutId) && dataWithoutId.length > 0) {
+					// Hvis dataWithoutId er en ikke-tom array, indsæt dataene i samlingen med det genererede navn
+					db[collectionNavn].insertMany(dataWithoutId);
+				} else {
+					print(`JSON-filen '${filnavn}' indeholder ingen dokumenter.`);
+				}
+			} catch (fejl) {
+				print(`Fejl ved behandling af JSON-fil '${filnavn}':`, fejl);
+			}
+		}
+	}

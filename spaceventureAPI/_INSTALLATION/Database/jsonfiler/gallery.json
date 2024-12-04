@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "617f7d2d066b123e4c7c9402"
+    },
+    "imagetext": "Rumskibet set fra en satellit på vej mod Månen",
+    "image": "spaceship1.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617f7d3b066b123e4c7c9404"
+    },
+    "imagetext": "Rumskibet Voyager X10 på vej ud gennem atmosfæren",
+    "image": "spaceship2.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617f7d42066b123e4c7c9406"
+    },
+    "imagetext": "Rumskibet netop landet på Månen",
+    "image": "spaceship3.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617f7d48066b123e4c7c9408"
+    },
+    "imagetext": "Rumskibet er udstyret med behagelig komfort",
+    "image": "spaceship4.jpg",
+    "__v": 0
+  }
+]

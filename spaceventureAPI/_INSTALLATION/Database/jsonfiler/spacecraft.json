@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "617a7870aab11167649c466b"
+    },
+    "title": "Tophastighed: 1.000.000 km/t",
+    "content": "<p><strong>Vores rumfærge er udviklet og fremstillet på baggrund af den nyeste rumteknologi, som gør det muligt at transportere personer over meget store afstande - hurtigt og komfortabelt.</strong> På rumfærgen er der plads til 6 personer ud over besætningen.</p><br /><p>Besætningen består af fire veluddannede og rutinerede astronauter og fungerer både som piloter og stewarder/stewardesser undervejs på turen frem til målet. I rumfærgen tilbyder vi de samme faciliteter og komfortable muligheder, som du kender det fra et almindeligt rutefly i luksusklassen.</p><br /><p>Rumfærgens tophastighed er på 1.000.000 km/t, men du vil ikke mærke den voldsomme fart som noget ubehageligt, da denne tophastighed kun bliver opnået i det lufttomme rum, hvor rystelser mv. er minimale.</p>",
+    "image": "om-os.jpg",
+    "__v": 0
+  }
+]

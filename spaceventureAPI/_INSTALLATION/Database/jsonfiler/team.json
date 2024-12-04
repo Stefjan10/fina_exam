@@ -1,0 +1,46 @@
+[
+  {
+    "_id": {
+      "$oid": "617f7ec2066b123e4c7c9411"
+    },
+    "name": "Diana Robinson",
+    "role": "C.E.O",
+    "email": "diana@spaceventure.dk",
+    "phone": "+45 23 34 45 56",
+    "image": "Diana.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617f7ef2066b123e4c7c9413"
+    },
+    "name": "Peter McMillan",
+    "role": "Rejse agent",
+    "email": "peter@spaceventure.dk",
+    "phone": "+45 84 58 20 23",
+    "image": "Peter.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617f7f19066b123e4c7c9415"
+    },
+    "name": "Jill Peterson",
+    "role": "Tur konsulent",
+    "email": "jill@spaceventure.dk",
+    "phone": "+45 34 15 56 34",
+    "image": "Jill.jpg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "617f7f3b066b123e4c7c9417"
+    },
+    "name": "James Smith",
+    "role": "PR Manager",
+    "email": "james@spaceventure.dk",
+    "phone": "+45 89 47 67 36",
+    "image": "James.jpg",
+    "__v": 0
+  }
+]

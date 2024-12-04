@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "617f80a6066b123e4c7c941a"
+    },
+    "title": "Velkommen til Mars!",
+    "content": "<p>Du har her muligheden for med egne sanser at opleve den sagnomspundne røde planet Mars på et 14-dages luksusophold.</p><p> Hvis du går og drømmer om at veje 1/3 del af, hvad du vejer på jorden. Hvis du mener, at et døgn burde vare 40 minutter længere. Hvis du gerne vil holde ferie lidt længere væk end Spanien - nærmere betegnet 60 millioner kilometer væk! Hvis du tænker, at det kunne være dejligt med én måne mere at kigge på om natten. Ja, så er Mars stedet for dig.</p><p>Inkluderet i denne rejse er: <strong>Fuldpension på vores klimatiserede Mars-hotel med samme komfort som et 6-stjernet hotel, oplevelsestur til Mars-polernes fantastiske is-formationer, som du kan udforske på egen hånd i en af vore Mars-biler, observationsaften med studier af de to måner Phobos og Deimos samt guidede ture til diverse rumhistoriske steder.</strong></p>",
+    "traveltime": "ca. 45 timer",
+    "destination": "Mars",
+    "distance": "60 millioner km.",
+    "price": "2.5 mio.",
+    "image1": "mars1.jpg",
+    "image2": "mars2.jpg",
+    "rating": 5,
+    "spacelaunch": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "617f8116066b123e4c7c941c"
+    },
+    "title": "Velkommen til Månen!",
+    "content": "<p>Du har her mulighed for at nyde et 14-dages luksusophold i nogle af de mest unikke omgivelser i vores solsystem - nærmere betegnet vores egen Måne.</p><p>På denne tur kan du opleve jorden dække for solen i en ”jord-formørkelse”, køre en tur på egen hånd i en af vores komfortable månebiler, springe op til 50 meter uden tilløb i de så godt som vægtløse omgivelser og ikke mindst nyde jorden stå op, når det bliver lyst. Du får desuden en helt unik mulighed for at opleve det uendelige univers, når du kigger ud på det fra den mørke side af månen.</p><p>Rejsen er inkluderet: <strong>Fuldpension, guidede ture til diverse rumhistoriske månesteder, observationsaften, hvor vi vil se nærmere på jorden, samt ikke mindst et ophold på vores klimatiserede månehotel med samme komfort som på et 6-stjernet hotel.</strong></p>",
+    "traveltime": "ca. 30 min.",
+    "destination": "Månen",
+    "distance": "384.400 km",
+    "price": "1.5 mio.",
+    "image1": "moon1.jpg",
+    "image2": "moon2.jpg",
+    "rating": 4,
+    "spacelaunch": "2025-06-06T00:00:00.000Z"
+  }
+]

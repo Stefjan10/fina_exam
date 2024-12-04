@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "6505fdc2104b0868e42a9b7f"
+    },
+    "admin": false,
+    "name": "Veronika Elstar",
+    "email": "ve@spaceventure.dk",
+    "password": "$2b$05$qVyfYI1KatGq/1te4qk1peB3O6js8wKc6MMgV.5p8IWuR6fllhnny",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6505fe05104b0868e42a9b83"
+    },
+    "admin": true,
+    "name": "Søren Planetsen",
+    "email": "sp@spaceventure.dk",
+    "password": "$2b$05$5fBczb2hfXwL.LcLnu1SJuCCtEV35kmM/Nxu/fLZfUAMPckVRPkz6",
+    "__v": 0
+  }
+]
